@@ -1,0 +1,25 @@
+{
+  "name": "jade-l10n-loader",
+  "version": "0.0.1",
+  "author": {
+    "name": "Vahe Hovhannisyan @vhpoet"
+  },
+  "description": "Jade-l10n loader module for webpack",
+  "dependencies": {
+    "loader-utils": "0.2.x",
+    "jade-l10n": "0.0.1",
+    "jade": "~0.28.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "readme": "# jade-l10n loader for webpack\r\n\r\n## Usage\r\n\r\n``` javascript\r\nvar template = require(\"jade!./file.jade\");\r\n// => returns file.jade content as template function\r\n```\r\n\r\nDon't forget to polyfill `require` if you want to use it in node.\r\nSee `webpack` documentation.\r\n\r\n## License\r\n\r\nMIT (http://www.opensource.org/licenses/mit-license.php)",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vhpoet/jade-l10n-loader.git"
+  }
+}
