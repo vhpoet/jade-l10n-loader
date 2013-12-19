@@ -1,14 +1,14 @@
 {
   "name": "jade-l10n-loader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "name": "Vahe Hovhannisyan @vhpoet"
   },
   "description": "Jade-l10n loader module for webpack",
   "dependencies": {
     "loader-utils": "0.2.x",
-    "jade-l10n": "~0.1.0",
-    "jade": "~0.28.0"
+    "jade-l10n": "~0.1.x",
+    "jade": "~0.28.x"
   },
   "licenses": [
     {
