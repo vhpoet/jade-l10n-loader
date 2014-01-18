@@ -14,3 +14,6 @@ See `webpack` documentation.
 ## License
 
 MIT
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vhpoet/jade-l10n-loader/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
